@@ -17,7 +17,6 @@ class MainActivity : AppCompatActivity() {
         people_id.setOnClickListener {
             Log.d("tag", "message");
             val intent = Intent(this, Home::class.java)
-           
             startActivity(intent)
         }
 
