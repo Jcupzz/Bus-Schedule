@@ -39,7 +39,7 @@ class Home : AppCompatActivity() {
     private fun setCurrentFragment(fragment: Fragment)=
         supportFragmentManager.beginTransaction().apply {
 
-            replace(R.id.bottomNavigationView,fragment)
+            replace(R.id.flFragment,fragment)
             commit()
         }
 }
