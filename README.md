@@ -3,7 +3,7 @@ Notes taking app
 
 <b>Problem Statement</b>
 
-Now a days, online classes are preffered more due to the pandemic. People often wants to note down these points or lectures in online classes without any hassle. 
+Now a days, online classes are preferred more due to the pandemic. People often wants to note down these points or lectures in online classes without any hassle. 
 Here comes <b>Jot in Jiffy</b> a simple easy to use and fast feature-packed notes taking app. It helps people to jot down notes in a jiffy!
 
 **Proposed Solution**
