@@ -13,7 +13,7 @@
         android:layout_height="wrap_content"
         android:layout_weight="1"
         android:scaleType="centerInside"
-        tools:srcCompat="@drawable/busdriveredited" />
+        android:src="@drawable/busdriveredited" />
 
     <ImageButton
         android:id="@+id/driver"
@@ -21,6 +21,7 @@
         android:layout_height="wrap_content"
         android:layout_weight="1"
         android:scaleType="centerInside"
-        tools:srcCompat="@drawable/waiting" />
+        android:src="@drawable/waiting"
+        />
 
 </LinearLayout>
