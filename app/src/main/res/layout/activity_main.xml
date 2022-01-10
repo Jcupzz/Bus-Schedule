@@ -11,13 +11,16 @@
         android:id="@+id/people"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        app:srcCompat="@drawable/bus" />
+        android:layout_weight="1"
+        android:scaleType="centerInside"
+        tools:srcCompat="@drawable/busdriveredited" />
 
     <ImageButton
         android:id="@+id/driver"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:scaleType="centerCrop"
-        app:srcCompat="@drawable/driver_2" />
+        android:layout_weight="1"
+        android:scaleType="centerInside"
+        tools:srcCompat="@drawable/waiting" />
 
 </LinearLayout>

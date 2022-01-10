@@ -10,7 +10,7 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.BusSchedule">
         <activity
-            android:name=".Home"
+            android:name=".MainActivity2"
             android:exported="false" />
         <activity
             android:name=".MainActivity"
