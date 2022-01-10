@@ -4,6 +4,8 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Users/jcupz/AndroidStudioProjects/NotesApp/app/src/main/res/drawable/background.xml" value="0.15989583333333332" />
+        <entry key="..\:/Users/jcupz/AndroidStudioProjects/NotesApp/app/src/main/res/drawable/ic_baseline_cancel_24.xml" value="0.290625" />
+        <entry key="..\:/Users/jcupz/AndroidStudioProjects/NotesApp/app/src/main/res/drawable/ic_delete.xml" value="0.290625" />
         <entry key="..\:/Users/jcupz/AndroidStudioProjects/NotesApp/app/src/main/res/drawable/ic_search.xml" value="0.15989583333333332" />
         <entry key="..\:/Users/jcupz/AndroidStudioProjects/NotesApp/app/src/main/res/layout/activity_main.xml" value="0.17300724637681159" />
         <entry key="..\:/Users/jcupz/AndroidStudioProjects/NotesApp/app/src/main/res/layout/fragment_create_note.xml" value="0.4" />
